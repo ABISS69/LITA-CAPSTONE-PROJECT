@@ -34,7 +34,9 @@ These are some basic line of codes and Queries during the analysis of the Data;
 ```Microsoft Excel
 Total Revenue=Unitsold*Quantity
 
+```
 ### Data Visualization
+
 
 
 
