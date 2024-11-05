@@ -36,6 +36,11 @@ Total Revenue=Unitsold*Quantity
 
 ```
 ### Data Visualization
+![REVENUE TABLE](https://github.com/user-attachments/assets/fe049660-2218-47ee-84d6-bf31bc3f3c5b)
+
+PIVOT TABLE
+![CAPSTONE PIVOT TABLE](https://github.com/user-attachments/assets/41b89b28-24d4-4c2d-b09f-30c566457289)
+
 
 
 
