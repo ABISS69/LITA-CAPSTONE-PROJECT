@@ -32,7 +32,12 @@ It involves exploring the Data to answer some certain questions, which includes;
 ---
 These are some basic line of codes and Queries during the analysis of the Data;
 ```Microsoft Excel
-Total Revenue=UnitSold*Quantity
+Total Revenue=Unitsold*Quantity
+
+### Data Visualization
+
+
+
 
 
 
