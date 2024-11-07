@@ -4,7 +4,7 @@ This is where I want to document my project work with Incubator Hub
 ## PROJECT TITLE: CAPSTONE PROJECT
 ## PROJECT OVERVIEW
 ---
-This Data Analysis Project aims to generate insights from Data. Analysing the data to gather different insights to makes reasonable decisions.
+This Data Analysis Project aims to generate insights from Sales Data. Analysing the data to gather different insights to makes reasonable decisions.
 ### Data Sources
 The primary sourceof Data used is Sales Data sent to our LMS(CANVAS) by the Incubator Hub
 ### Tools Used
@@ -35,20 +35,23 @@ These are some basic line of codes and Queries during the analysis of the Data;
 Total Revenue=Unitsold*Quantity
 
 ```
-### Data Visualization
+### SALES DATA
 ![REVENUE TABLE](https://github.com/user-attachments/assets/fe049660-2218-47ee-84d6-bf31bc3f3c5b)
 
-PIVOT TABLE
+#### PIVOT TABLES
 ![CAPSTONE PIVOT TABLE](https://github.com/user-attachments/assets/41b89b28-24d4-4c2d-b09f-30c566457289)
 
-#### THE SECOND TOOL(SQL)
+### BASIC QUERIES DURING ANALYSIS OF THE DATA IN SQL
 QUERYING DATA TO ANSWER QUESTIONS SUCH AS;
-1. 
+1.  TOTAL SALES FOR EACH REGION
+2.  NUMBER OF SALES TRANSACTION FOR EACH REGION
+3.  TOTAL REVENUE PER PRODUCT
+
 ```SQL
 SELECT * FROM LITA CAPSTONE DATASET
 ```
 ![SQL QUERY 1](https://github.com/user-attachments/assets/3df8d39c-a2df-47d1-96e3-5edf006968e6)
-QUERY 
+
 
 ![SQL QUERY 2](https://github.com/user-attachments/assets/9f0f60bf-f93e-462c-91f6-cfa06a882ca3)
 
@@ -64,4 +67,20 @@ QUERY
 
 ![SQL QUERY 6](https://github.com/user-attachments/assets/043874b3-3a77-4a09-a48e-07bc3633f24e)
 
+
 ![SQL QUERY 7](https://github.com/user-attachments/assets/da83af21-2422-4200-ac57-60793eb628e9)
+
+
+
+### POWER BI VISUALS FOR SALES DATA
+
+![POWER BI 1](https://github.com/user-attachments/assets/a1f230e4-5b1d-480f-921b-143c240d28da)
+
+
+
+![POWER BI 2](https://github.com/user-attachments/assets/63cf4447-f31f-40f8-b16b-2ed4efcc6ea8)
+
+
+
+
+
